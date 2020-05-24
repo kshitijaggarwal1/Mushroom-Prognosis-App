@@ -1,4 +1,4 @@
-# Mushroom-Detection-App
+# Mushroom-Prognosis-App
 
 Technologies used: 
 streamlit,
